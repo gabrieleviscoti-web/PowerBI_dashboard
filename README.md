@@ -28,7 +28,7 @@ It is widely used for analytical and visualization practice.
 |------------|-------------|
 | Order ID     | Unique order identifier       | 
 | Product name | Product sold      |
-| Category | Product classification       | 
+| Category/Sub-category | Product classification       | 
 | Sales     | Revenue generated       | 
 | Profit | Profit per order      |
 | Quantity | Units sold       | 
